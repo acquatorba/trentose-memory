@@ -1,6 +1,6 @@
 # trentose-memory
 A simulation exam for the students of Software Engineering II - UNITN
 
-*Matricola* : Your student ID
+*Matricola* : 167004
 
-*Nome*      : Your name surname
+*Nome*      : Giulio Maria Facin
